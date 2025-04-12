@@ -1,18 +1,54 @@
 # 🌤️ Real-Time Weather Dashboard
 
-A full-stack web application that allows users to search for any city and view its current weather conditions along with a 5-day forecast. 
+A sleek and responsive full-stack weather dashboard that enables users to search for any city worldwide and get real-time weather information, including a 5-day forecast. Built with **Node.js**, **Express**, and **OpenWeatherMap API** on the backend, and a modern **React.js** frontend for a smooth user experience.
 
-### Running it locally
-clone the Repository
+---
 
-## Backend Setup
+## 🚀 Features
 
+- 🔍 Search any city for real-time weather
+- 📆 5-day weather forecast with daily details
+- 🌡️ Temperature, humidity, wind speed, and weather conditions
+- 📱 Responsive design for desktop and mobile
+- 🎯 Clean UI with smooth animations
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js
+- CSS3
+
+**Backend:**
+- Node.js
+- Express.js
+- Axios
+
+
+
+---
+
+## 🧑‍💻 Getting Started (Local Setup)
+
+### 🔁 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+## Backend setup
 cd server
 npm install
-npm start
 
-## Frontend Setup
+## Frontend setup
+
 cd client
 npm install
 npm start
+
+Your app will be live at http://localhost:3000
+
+
+
 
