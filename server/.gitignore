@@ -1,0 +1,17 @@
+# Root-level dependencies
+node_modules/
+
+# Client build files
+client/build/
+
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
